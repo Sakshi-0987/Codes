@@ -1,0 +1,12 @@
+# Codes
+//Currently I am learning JAVA, and here are various codes representing my work and understanding of that.
+
+//to check whether even or odd (Given an integer as input print whether even or odd)
+    int x = scn.nextInt();
+    if (x%2 == 0) {
+        System.out.print("x is even");
+    }
+    else {
+        System.out.print("x is odd"); 
+    }
+    
