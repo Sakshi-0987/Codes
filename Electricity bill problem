@@ -1,6 +1,12 @@
 # Codes
 
+    import java.util.*;
 
+    class Main {
+
+    public static void main(String[] args) {
+
+    Scanner scn = new Scanner (System.in);
     /*
     Electricity bill problem
     Given an integer input A which represents units of elctricity consumed at your house.
